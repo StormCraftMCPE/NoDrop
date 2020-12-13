@@ -1,5 +1,5 @@
 <?php
-namespace herojhjh;
+namespace NoDrop;
 
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
